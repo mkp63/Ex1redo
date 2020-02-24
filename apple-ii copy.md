@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
-
 <head>
 	<meta charset="utf-8">
-	<title>Apple Macintosh</title>
+	
 </head>
 
 <body>
@@ -15,9 +14,10 @@
 <h5><em><a href="apple-ii.html">Apple II</a></em></h5>
 <h5><a href="commodore-64.html">Commodore 64</a></h5>
 <h5><a href="trs-80.html">TRS 80</a><h5>
+<img src="apple-ii.jpg" alt=Apple II>
 
 
-<img src="apple-ii.jpg" alt=Apple II">
+
 <h6>Apple II. <em>Photo By: Bilby (CC-BY)</em></h6>
 
 <p><strong>The Apple II</strong> (stylized as Apple ][) is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak. Steve Jobs oversaw the development of the <strong>Apple II's</strong> foam-molded plastic case and Rod Holt developed the switching power supply.</p>
